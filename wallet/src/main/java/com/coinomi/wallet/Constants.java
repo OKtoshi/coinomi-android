@@ -174,7 +174,7 @@ public class Constants {
             new CoinAddress(GcrMain.get(),          new ServerAddress("gcr-cce-1.coinomi.net", 5038),
                                                     new ServerAddress("gcr-cce-2.coinomi.net", 5038)),
             new CoinAddress(OKCashMain.get(),       new ServerAddress("ok-cce-1.coinomi.net", 5040),  //162.248.142.89
-                                                    new ServerAddress("ok-cce-2.coinomi.net", 5040))  //162.244.30.214
+                                                    new ServerAddress("ok-cce-2.coinomi.net", 5040))  //167.88.40.231
     );
 
     public static final HashMap<CoinType, Integer> COINS_ICONS;
